@@ -16,3 +16,7 @@ The program allows users to input their personal data (weight and height) and ca
 - Static Arrays for storage
 - Specialized functions for each task
 - Basic input/output handling
+
+
+.. First Coding Project |
+"This project represents my inaugural venture into software development, serving as a foundational application that demonstrates my initial grasp of core programming principles and problem-solving methodologies."
